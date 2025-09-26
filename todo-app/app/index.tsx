@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text,StyleSheet } from 'react-native';
+import { View, StyleSheet } from 'react-native';
 import TodoItem from '../components/todo-item';
 import { Stack } from 'expo-router';
 
